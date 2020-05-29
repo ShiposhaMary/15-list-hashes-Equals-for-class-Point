@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equals for class Point", "Equals for class Point.csproj", "{FEDB8D5B-0E25-4DC8-A0D4-08D8D50DA820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEDB8D5B-0E25-4DC8-A0D4-08D8D50DA820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDB8D5B-0E25-4DC8-A0D4-08D8D50DA820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDB8D5B-0E25-4DC8-A0D4-08D8D50DA820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDB8D5B-0E25-4DC8-A0D4-08D8D50DA820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {651EC23E-C9BB-441C-A4A4-188DCA09BA1B}
+	EndGlobalSection
+EndGlobal
